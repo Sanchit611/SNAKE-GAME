@@ -10,12 +10,22 @@ Snake Game
 4.Try to get the most points without touching the end of screen.<br>
 5.Play again and enjoy!!
 
+<br>
+<a href"https://sanchit611.github.io/Snake-Game/">Click Here</a> to play the game.
+
 
 <h2>About this Project: </h2>
 
 This Snake Game is created with html, css and javascript inspired by the traditional mobile games. It is easy to play and use.
 
 <h2>Built With: </h2>
-<pre>HTML,CSS AND JAVASCRIPT</pre>
+<pre>HTML | CSS | JAVASCRIPT</pre>
 
-<h3>Email : sanchitnarang611@gmail.com </h3>
+<h2>Details:</h2>
+<pre>
+Developed by: Sanchit Narang <br>
+E-mail : sanchitnarang611@gmail.com <br>
+<a target="_blank" href="https://sanchit611.github.io/Gaussian-Function-Calculator/" >Click Here</a> to view the project. <br>
+Code is pushed in the master branch.<bt>
+</pre>
+
